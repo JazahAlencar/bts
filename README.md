@@ -2,6 +2,8 @@
 🧾 Descrição
 Este projeto é uma fan page dedicada ao grupo de K-pop BTS, desenvolvida em HTML, CSS e Bootstrap. O objetivo é criar um site simples e responsivo com informações dos integrantes, formas de contato e área de login. O conteúdo está organizado de forma acessível e com navegação clara entre as páginas.
 
+___________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
 🖼️ Páginas do Projeto
 1. Página Inicial (inicial.html)
 Apresenta um carrossel com imagens do grupo.
@@ -28,6 +30,10 @@ Estilização com Bootstrap e arquivo CSS personalizado.
 5. Sobre (sobre.html)
 (O conteúdo ainda não foi enviado, mas você pode descrever aqui o BTS, sua história, ou o objetivo da fan page.)
 
+
+___________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
 🛠️ Tecnologias Utilizadas
 HTML5: Estrutura das páginas.
 
@@ -36,6 +42,8 @@ CSS3: Estilização visual com arquivos separados para cada página.
 Bootstrap 4.1.3: Estilização rápida e responsiva com componentes prontos.
 
 JavaScript (mínimo): Apenas para o funcionamento do carrossel via Bootstrap.
+
+___________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 📂 Estrutura de Arquivos (exemplo)
 pgsql
@@ -55,6 +63,10 @@ Editar
 ├── login.css
 │
 └── imagens/ (opcional para armazenar imagens usadas no site)
+
+___________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
 ✅ Funcionalidades Concluídas
 Navegação entre páginas.
 
@@ -65,6 +77,8 @@ Tabela de aniversários dos membros.
 Formulário de login (não conectado a backend).
 
 Layout responsivo com Bootstrap.
+___________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
 
 🚧 Melhorias Futuras
 Adicionar back-end para autenticação real no login.
@@ -78,6 +92,8 @@ Adicionar galeria de fotos e vídeos.
 Implementar formulário de contato funcional.
 
 Traduzir para inglês ou coreano para atingir mais fãs internacionais.
+___________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
 
 👩‍💻 Autoria
 Projeto criado por Jazah Alencar como forma de aprendizado e expressão criativa sobre o grupo BTS.
