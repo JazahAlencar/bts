@@ -1,0 +1,87 @@
+body {
+    background-color: #ccc;
+    background-image: url(https://i.pinimg.com/736x/17/14/20/1714207a39df2695201eed81e9ba5c97.jpg);
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+header {
+    background-color: #b35fd4;
+    padding: 15px;
+    text-align: center;
+    color: white;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.nav { justify-content: center;
+
+
+}
+nav ul li {
+    margin: 0 15px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    padding: 8px 12px;
+    background-color: #b27fd4;
+    border-radius: 5px;
+    transition: 0.3s;
+}
+
+nav ul li a:hover {
+    background-color: #c38ada;
+}
+
+
+.carousel {
+    max-width: 80%;
+    margin: 20px auto;
+    background-color: white;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.carousel-item img {
+    border-radius: 10px;
+}
+
+
+.carousel-control-prev, 
+.carousel-control-next {
+    width: 5%;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    background-color: #e6b8d6;
+    border-radius: 50%;
+    padding: 10px;
+}
+
+.carousel-control-prev:hover .carousel-control-prev-icon,
+.carousel-control-next:hover .carousel-control-next-icon {
+    background-color: #c38ada;
+}
+
+
+footer {
+    background-color: #b35fd4;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
