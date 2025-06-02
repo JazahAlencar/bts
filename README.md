@@ -5,6 +5,8 @@ Este projeto é uma fan page dedicada ao grupo de K-pop BTS, desenvolvida em HTM
 ___________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 🖼️ Páginas do Projeto
+
+
 1. Página Inicial (inicial.html)
 Apresenta um carrossel com imagens do grupo.
 
@@ -27,8 +29,23 @@ Possui link de “Esqueceu sua senha?” (ainda não funcional).
 
 Estilização com Bootstrap e arquivo CSS personalizado.
 
+
 5. Sobre (sobre.html)
-(O conteúdo ainda não foi enviado, mas você pode descrever aqui o BTS, sua história, ou o objetivo da fan page.)
+
+   
+A página "Sobre" apresenta a essência do fandom BTS, destacando a união global do ARMY e a mensagem positiva transmitida pelo grupo. O conteúdo inclui:
+
+Um título principal que introduz a identidade da comunidade: “Quem Somos – Fandom BTS 💜”.
+
+Um menu de navegação com links para outras páginas do site (Início, Login, Aniversário, Contato).
+
+Uma imagem ilustrativa com legenda, reforçando visualmente o sentimento de pertencimento.
+
+Um texto descritivo que fala sobre os valores, aprendizados e inspirações que os fãs recebem do BTS, com foco em temas como amor próprio, superação e coletividade.
+
+Um rodapé simples com aviso de direitos reservados.
+
+Essa página tem um papel emocional e motivacional, aproximando o visitante do propósito do site e do espírito da comunidade ARMY.
 
 
 ___________________________________________________________________________________________________________________________________________________________________________________________________________________________
